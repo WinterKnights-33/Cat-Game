@@ -190,7 +190,7 @@ body
     right: 50%;
     transform: translateX(50%);
 }
-.mustaches
+.whiskers
 {
     display: flex;
     gap: 1rem;
@@ -200,12 +200,12 @@ body
     transform: translateX(50%);
     z-index: 2;
 }
-.mus
+.whisk
 {
     display: flex;
     flex-direction: column;
 }
-.mustach
+.whisker
 {
     height: 20px;
     width: 5rem;
@@ -213,7 +213,7 @@ body
     border-top: 2px solid #000000;
     margin-top: -15px;
 }
-.pads
+.paws
 {
     display: flex;
     gap: 2.5rem;
@@ -223,7 +223,7 @@ body
     z-index: 5;
     transform: translateX(50%);
 }
-.pad
+.paw
 {
     height: 40px;
     width: 50px;
