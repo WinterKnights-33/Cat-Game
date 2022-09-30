@@ -1,3 +1,5 @@
+
+
 //controls  
 const hatcheck = document.querySelector("#hat");
 const glassescheck = document.querySelector("#eyeglasses");
@@ -32,4 +34,4 @@ function tiefun() {
     } else {
         tie.style.bottom = "-80px";
     }
-}
+}  
